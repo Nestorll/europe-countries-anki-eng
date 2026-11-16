@@ -11,7 +11,7 @@ To make learning easier, I have arranged all the countries in the deck in a spec
 I recommend hiding all ‘Capital–Country’ cards at the start so they don’t distract you when you begin.
 To do this, open the file on the left with this name)  
 
-![Map](image/MapChart_Map eng.png)
+![Map](image/Image/MapChart_Map eng.png)
 
 ## Explanation
 1. The first group of countries runs from Estonia to Ukraine — from north to south.
