@@ -1,6 +1,6 @@
 # europe-countries-anki-eng  
 
-# European countries — capitals, flags, a map and correct pronunciation!  
+# European countries — capitals, flags, a map, Transcription and correct pronunciation!  
 
 A map and list to accompany the Anki deck ‘European Countries’.
 
@@ -8,7 +8,7 @@ A map and list to accompany the Anki deck ‘European Countries’.
 
 To make learning easier, I have arranged all the countries in the deck in a specific order. On the map, for clarity, you can see their general order. The full list is provided below. The countries are grouped by region and by their geographical location: from top to bottom, left to right.
 
-I recommend hiding all ‘Capital–Country’ cards at the start so they don’t distract you when you begin.
+I recommend hiding all ‘Capital–Country’ cards at the start so they don’t distract you when you begin.  
 To do this, open the file on the left with this name)  
 
 ![Map](Image/MapChart_Map%20eng.png)
@@ -24,7 +24,7 @@ To do this, open the file on the left with this name)
 6. When you start learning about former colonial countries, their modern territories and islands will follow. You’ll discover that the Kingdom of Denmark includes two further territories, the Kingdom of the Netherlands includes three more countries in the Caribbean, and many other interesting facts)
 7. As for Britain and France: this deck only includes British territories located in Europe and five of France’s overseas regions.
 
-If you have any suggestions, or if you’d like to study in a different order, I can explain how to do this in person. To do so, please message me on Telegram: @nestorlll
+If you have any suggestions, or if you’d like to study in a different order, I can explain how to do this in person. To do so, please message me on Telegram: @nestorlll or email: donthotmilk@gmail.com
 ## Full list of countries and territories  
 
 1. Estonia
