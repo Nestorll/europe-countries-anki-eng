@@ -74,11 +74,11 @@ If you have any suggestions, or if you’d like to study in a different order, I
 45. Finland
 46. Åland Islands
 47. Denmark
-48. Faroe Islands
-49. Greenland
+48. Greenland
+49. Faroe Islands
 50. Iceland
-51. Netherlands
-52. Kingdom of the Netherlands
+51. Kingdom of the Netherlands
+52. The Netherlands
 53. Aruba
 54. Curaçao
 55. Sint Maarten
