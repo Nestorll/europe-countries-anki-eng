@@ -5,7 +5,7 @@ If you want to start by learning only the ‘Country – Capital’ cards, I rec
 
 ### Step 1. Open the deck’s card list
 
-Open Anki, click on the deck you want, and click the ‘Browser’ button at the top of the window.
+Open Anki, click on the deck you want, and click the ‘Browse’ button at the top of the window.
 
 ![Map](Image/image1.png)
 
