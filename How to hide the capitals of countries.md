@@ -13,7 +13,7 @@ Open Anki, click on the deck you want, and click the ‘Browse’ button at the 
 
 ### Step 2. Open the card list
 
-Click the green button (toggle) between ‘Records’ and ‘Cards’. We need the cards (blue colour)
+Click the green button (toggle) between ‘Notes’ and ‘Cards’. We need the cards (blue colour)
 
 ![Map](Image/image2.png)
 
