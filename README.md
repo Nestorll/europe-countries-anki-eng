@@ -1,6 +1,6 @@
 # europe-countries-anki-eng  
 
-# European countries — capitals, flags, a map, Transcription and correct pronunciation!  
+# European countries — capitals, flags, a map, Transcription and Correct Pronunciation!  
 
 A map and list to accompany the Anki deck ‘European Countries’.
 
