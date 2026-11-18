@@ -1,7 +1,9 @@
 
 # How to hide ‘Capital – Country’ cards
 
-If you want to start by learning only the ‘Country – Capital’ cards, I recommend temporarily hiding the cards in the opposite direction.
+If you feel that the ‘Capital–Country’ flashcards are overwhelming you at the moment, hide them. I, for example, also started by learning only ‘Country–Capital’, along with the flags and the map.
+
+**Here’s how to temporarily hide the flashcards for the reverse direction:**
 
 ### Step 1. Open the deck’s card list
 
